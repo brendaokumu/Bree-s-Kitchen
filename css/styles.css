@@ -78,7 +78,7 @@ padding-top: 10%;
 }
 
 #text3 {
-  padding-top: 13%;
+  padding-top: 15%;
   text-align: left;
   font-size: 16px;
 }
@@ -95,20 +95,6 @@ box-shadow: 0px 5px 5px grey;
 .fasts img {
   height: 200px;
   width: 435px;
-}
-
-.fasts1{
-margin: 15%;
-border-color: transparent;
-border-style: solid;
-border-width: 5px;
-border-radius: 5px;
-box-shadow: 0px 5px 5px grey;
-}
-
-.fasts1 img {
-  height: 330px;
-  width: 215px;
 }
 
 .container-fluid {
@@ -142,4 +128,8 @@ border-radius: 5px;
 background-color: white;
 color: #F15A29;
 border: 2px solid #F15A29;
+}
+
+.bg-10{
+padding: 0;
 }
