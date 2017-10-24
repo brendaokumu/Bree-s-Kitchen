@@ -22,7 +22,7 @@ To pull the application and perform changes, kindly perform...
 
 ## Link to live site
 
-https://brendaokumu.github.io/mpft-ip/
+https://brendaokumu.github.io/Bree-s-Kitchen/
 
 ## Technologies Used
 
