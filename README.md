@@ -5,8 +5,9 @@
 #### By Brenda Okumu
 
 ## Description
+https://brendaokumu.github.io/Bree-s-Kitchen/
 
-bree-s-kitchen-app is an application that showcases her restaurant, what they offer on their menu, how to contact them and the ability for customers to give feedback on their services. 
+bree-s-kitchen-app is an application that showcases her restaurant, what they offer on their menu, how to contact them and the ability for customers to give feedback on their services.
 
 ## Setup/Installation Requirements
 
@@ -19,10 +20,6 @@ To pull the application and perform changes, kindly perform...
 * Change the current working directory to the location where you want the cloned directory to be made.
 * Type git clone, and then paste the URL you copied in Step 2.
 * Press Enter. Your local clone will be created.
-
-## Link to live site
-
-https://brendaokumu.github.io/Bree-s-Kitchen/
 
 ## Technologies Used
 
