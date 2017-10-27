@@ -7,6 +7,11 @@
   color: white;
 }
 
+.img2{
+background-image: url("../images/backgrounds/foodsBg.jpg");
+overflow-x: hidden;
+}
+
 p.headerlogo{
     font-size: 300%;
 }
