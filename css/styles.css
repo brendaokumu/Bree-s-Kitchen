@@ -19,6 +19,10 @@ p {
 padding: 0;
 }
 
+.imgwidth2{
+padding: 4%;
+}
+
 .bgparty{
 background-color:#F15A29;
 color: black;
@@ -52,7 +56,7 @@ transition: .5s ease;
 }
 
 .imgwidth:hover .text {
-color: white;
+color: black;
 }
 
 .text {
@@ -72,9 +76,8 @@ padding-top: 10%;
 
 .text2 {
 text-align: center;
-font-size: 200%;
-color: black;
-padding-top: 10%;
+font-size: 100%;
+color: #F15A29;
 }
 
 #text3 {
@@ -190,4 +193,18 @@ border: 2px solid #F15A29;
 color: #F15A29;
 border-style: none;
 background-color: transparent;
+}
+
+button.right {
+  position: relative;
+  right: 0px;
+}
+
+button.left {
+    position: relative;
+    left: 0px;
+}
+
+.fastFood img {
+margin: 12px;
 }
