@@ -1,20 +1,5 @@
-// js for .fastfood
-function openCity(evt, cityName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("city");
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-      tablinks[i].className = tablinks[i].className.replace(" w3-white", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " w3-white";
-}
-
 // js for .fastfood slideshow
-var slideIndex = 1;
+/*var slideIndex = 1;
 showDivs(slideIndex);
 
 function plusDivs(n) {
@@ -29,5 +14,8 @@ function showDivs(n) {
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";
   }
-  //x[slideIndex-1].style.display = "inline";
+  x[slideIndex-1].style.display = "block";
 }
+*/
+// <button class="button2 left" onclick="plusDivs(-1)">&#10094;</button>
+// <button class="button2 right" onclick="plusDivs(1)">&#10095;</button>

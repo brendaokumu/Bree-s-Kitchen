@@ -229,7 +229,7 @@ margin: 12px;
   }
 
 .nav {
-    margin-bottom: 20px;
+    margin-bottom: 12px;
     list-style: none;
   }
 
@@ -247,18 +247,18 @@ margin: 12px;
     display: block;
   }
 
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
-      color: #555;
+.nav-tabs>li.active>a {
+      color: #F15A29;
       cursor: default;
       background-color: #fff;
-      border: 1px solid #ddd;
       border-bottom-color: transparent;
+      border-color: transparent;
   }
 
   .nav-tabs li a {
       color: #000;
       font-weight: bold;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
       font-size: 1.7em;
       text-align: center;
       padding: 15px 102.765px;
@@ -281,8 +281,5 @@ margin: 12px;
 
 a {
     text-decoration: none;
-}
-
-a {
     background-color: transparent;
 }
