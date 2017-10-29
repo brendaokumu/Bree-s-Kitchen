@@ -34,6 +34,7 @@ width:300px;
 }
 
 .overlay-mini {
+font-family: 'Sorts Mill Goudy', times;
 position: absolute;
 bottom: 0;
 right: 0;
@@ -56,6 +57,7 @@ transition: .5s ease;
 }
 
 .imgwidth:hover .text {
+font-family: 'Sorts Mill Goudy', times;
 color: black;
 }
 
@@ -77,6 +79,15 @@ padding-top: 10%;
 .text2 {
 text-align: center;
 font-size: 100%;
+color: #F15A29;
+}
+
+.text3 {
+  padding: 5%;
+  text-align: center;
+}
+
+.text3 h2 {
 color: #F15A29;
 }
 
@@ -229,7 +240,7 @@ margin: 12px;
   }
 
 .nav {
-    margin-bottom: 12px;
+    margin-bottom: 20px;
     list-style: none;
   }
 
@@ -283,3 +294,33 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+
+.customerabout {
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 2px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-align: center;
+    color: black;
+}
+
+.arrow {
+    color: #F15A29;
+    font-size: 20px;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+  }
