@@ -1,8 +1,55 @@
+.hamburger {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: transparent;
+    height: 50px;
+    width: 75px;
+}
+
+#myNav {
+  width:100%
+}
+
+.overlayMenu {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #F15A29;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlayMenu .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+    position: absolute;
+}
+
+.overlayMenu a {
+    font-size: 20px;
+    padding: 8px;
+    text-decoration: none;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
 .img {
-  height: 90vh;
+  height: 93vh;
   background-image: url("../images/backgrounds/landing.jpg");
   background-repeat: no-repeat;
-  padding-top: 10%;
+  padding-top: 3%;
   text-align: center;
   color: white;
 }
@@ -297,7 +344,7 @@ a {
 
 .customerabout {
   width: 80%;
-  margin-top: 10%;
+  margin-top: 6%;
   margin-bottom: 10%;
   margin-left: 10%;
   margin-right: 10%;
@@ -323,6 +370,10 @@ a {
   font-style: normal;
   font-weight: 400;
   line-height: 1;
+}
+
+.depth {
+  height: 450px;
 }
 
 .lft {

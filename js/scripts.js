@@ -1,3 +1,11 @@
+// js for hamburger menu
+function openNav() {
+  document.getElementById("myNav").style.display = "block";
+}
+function closeNav() {
+  document.getElementById("myNav").style.display = "none";
+}
+
 // js for .fastfood slideshow
 /*var slideIndex = 1;
 showDivs(slideIndex);
