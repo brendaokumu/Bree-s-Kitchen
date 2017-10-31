@@ -18,7 +18,7 @@
     left: 0;
     background-color: #F15A29;
     overflow-x: hidden;
-    transition: 0.5s;
+    transition: 3s;
 }
 
 .overlayMenu .closebtn {
@@ -34,7 +34,7 @@
     text-decoration: none;
     color: #000000;
     display: block;
-    transition: 0.3s;
+    transition: 3s;
 }
 
 .overlay-content {
@@ -46,7 +46,7 @@
 }
 
 .overlay-content a{
-text-decoration: underline; 
+text-decoration: underline;
 }
 
 .img {
