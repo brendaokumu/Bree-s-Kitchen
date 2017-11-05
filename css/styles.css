@@ -74,6 +74,10 @@ p {
   padding: 4%;
 }
 
+.hpyhour {
+background-color: lightgrey;
+}
+
 .bgparty {
   background-color: #F15A29;
   color: black;
@@ -124,6 +128,13 @@ p {
   text-align: center;
   font-size: 200%;
   color: black;
+  padding-top: 10%;
+}
+
+.text1a {
+  text-align: center;
+  font-size: 200%;
+  color: white;
   padding-top: 10%;
 }
 
